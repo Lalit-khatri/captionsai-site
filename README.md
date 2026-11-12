@@ -7,3 +7,5 @@ Public pages for the CaptionsAI iOS app, served by GitHub Pages:
   edit `privacy.md` here by hand; re-run `scripts/publish-site.sh` in the app
   repository.
 - `/support/`: support and contact.
+
+Site: https://lalit-khatri.github.io/captionsai-site/
